@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Miller;Griffin;;;
+FN:Griffin Miller
+ORG:Go Garage Doors
+TITLE:Purchasing
+TEL;TYPE=WORK,VOICE:919-746-9230,12106
+EMAIL;TYPE=WORK:gmiller@gogaragedoors.com
+URL:https://gmiller-ggd.github.io/
+END:VCARD
