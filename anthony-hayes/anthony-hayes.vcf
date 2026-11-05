@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hayes;Anthony;;;
+FN:Anthony Hayes
+ORG:Go Garage Doors
+TITLE:Installer
+TEL;TYPE=WORK,VOICE:910-409-0753
+EMAIL;TYPE=WORK:ahayes@gogaragedoors.com
+URL:https://ggd-nc.github.io/anthony-hayes/
+END:VCARD
